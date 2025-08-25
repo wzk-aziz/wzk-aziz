@@ -28,7 +28,7 @@ I used to hate programming… now I develop SaaS applications for fun and growth
 
 ### 🚀 About Me
 
-I'm a driven software engineering student with a love for tech and gaming. My journey took an unexpected turn from disliking programming to thriving in it—especially when building applications that solve real-world problems.  
+I'm a driven software engineering student with a love for tech and gaming. My journey took an unexpected turn from disliking programming to thriving in it—especially when building applications that solve daily problems.  
 When I'm not coding, you'll probably find me immersed in a game or learning something new.
 
 ---
