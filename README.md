@@ -20,7 +20,7 @@
 ### About me
 - I build **reliable, scalable** software and enjoy **systems design** and **backend** work.  
 - Currently: building a **SaaS POS** and learning more about **DevOps & CI/CD**.  
-- Looking for **software engineering internships** in **Tunisia** & **Europe**.
+- Looking for **software engineering internships** in **Tunisia** or **any where else in the world**.
 
 ### Experience
 - **Engineering Intern — Liberrex (07/2025–08/2025)**  
@@ -123,7 +123,6 @@
 
 ### Stats
 <p>
-  <img height="152" alt="Stats" src="https://github-readme-stats.vercel.app/api?username=wzk-aziz&show_icons=true&hide_rank=false" />
   <img height="152" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wzk-aziz&layout=compact" />
 </p>
 
