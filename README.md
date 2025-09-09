@@ -8,7 +8,7 @@
 <div align="center">
 
 # Hi, I'm **Med Aziz Laaroussi** 👋  
-*Software Architecture Engineering Student  Tunisia*  
+*Software Architecture Engineering Student based in Tunisia*  
 *Étudiant en ingénierie de l'architecture logicielle*
 
 [Email](mailto:laroussiaziz13@gmail.com) · [GitHub](https://github.com/wzk-aziz)
