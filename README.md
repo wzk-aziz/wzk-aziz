@@ -8,8 +8,8 @@
 <div align="center">
 
 # Hi, I'm **Med Aziz Laaroussi** 👋  
-*Software Architecture Engineering Student — Ariana, Tunisia*  
-*Étudiant en ingénierie de l'architecture logicielle — Ariana, Tunisie*
+*Software Architecture Engineering Student  Tunisia*  
+*Étudiant en ingénierie de l'architecture logicielle*
 
 [Email](mailto:laroussiaziz13@gmail.com) · [GitHub](https://github.com/wzk-aziz)
 
@@ -23,11 +23,11 @@
 - Looking for **software engineering internships** in **Tunisia** or **any where else in the world**.
 
 ### Experience
-- **Engineering Intern — Liberrex (07/2025–08/2025)**  
+- **Engineering Intern — Liberrex**  
   Built a SaaS **Point‑of‑Sale** app. Worked on **Azure DevOps** (Repos/Boards/Pipelines) and **deployed the app** using CI/CD.
-- **Software Development Intern — T2A‑Consulting (07/2024–09/2024)**  
+- **Software Development Intern — T2A‑Consulting**  
   Real‑time **SWIFT** transactions tracking tool. **Spring Boot** backend + **SWIFT APIs**; **HTML/CSS/JS** frontend; testing with **Postman**.
-- **IT Intern (Intro) — Timsoft Group (07/2021–08/2021)**  
+- **IT Intern (Intro) — Timsoft Group**  
   Exposure to enterprise IT; archiving, organization; support tasks (testing, processes).
 
 ### Tech stack
@@ -118,8 +118,8 @@
 
 
 ### Education
-- **Engineering Degree in Software Architecture (2021–Present)** — ESPRIT, Tunis  
-- **Scientific Baccalaureate (2017–2021)** — Lycée Menzah 6, Ariana
+- **Engineering Degree in Software Architecture** 
+- **Scientific Baccalaureate** 
 
 ### Stats
 <p>
@@ -128,7 +128,7 @@
 
 ### Contact
 - 📫 **Email:** [laroussiaziz13@gmail.com](mailto:laroussiaziz13@gmail.com)  
-- 🌍 **Location:** Ariana, Tunisia
+- 🌍 **Location:** Tunisia
 
 
 
