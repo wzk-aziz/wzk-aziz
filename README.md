@@ -108,7 +108,7 @@
 </div>
 
 
-### Projects (selected)
+### Projects
 - **Store Management (Desktop + IoT)** — Qt + MySQL; Arduino sensors; manage employees/customers/inventory.  
   `C++ · Qt · MySQL · Arduino`
 - **Multi‑Platform Barter Platform** — Symfony (web), JavaFX (desktop), FlutterFlow prototype; auth, listings, messaging.  
